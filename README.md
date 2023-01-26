@@ -16,6 +16,7 @@
 </div>
 
 abandoned by god
+go use the actual one on poopenfarten
 # How to use
 - Download the lastest Meteor Client DevBuild.
 - Put NF Client in your `.minecraft/mods` folder where you have installed Meteor.
